@@ -1,7 +1,7 @@
 
 
 
-# 🐍 Python Mastery Roadmap 
+#  Python Mastery Roadmap 
 
 A complete checklist to master Python from beginner to advanced – including DSA.
 
