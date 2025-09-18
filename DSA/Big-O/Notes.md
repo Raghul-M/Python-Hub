@@ -1,6 +1,9 @@
 
 ## Big O Notation – Time & Space Complexity
 
+<img width="1180" height="720" alt="image" src="https://github.com/user-attachments/assets/bceacfc1-4f46-4cb4-944f-f3c29d3edeb5" />
+<br><br><br>
+
 Big O notation is a way of measuring how **efficient** an algorithm is.  
 It is very useful for writing **optimized and scalable code**.
 
